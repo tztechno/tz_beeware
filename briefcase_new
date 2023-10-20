@@ -1,0 +1,10 @@
+(beeware-venv) (/Users/shun_ishii/miniconda3) shun_ishii@shunnoMacBook-puro beeware-tutorial % briefcase new
+
+Let's build a new Briefcase app!
+
+First, we need a formal name for your application. This is the name that will
+be displayed to humans whenever the name of the application is displayed. It
+can have spaces and punctuation if you like, and any capitalization will be
+used as you type it.
+
+Formal Name [Hello World]: 
